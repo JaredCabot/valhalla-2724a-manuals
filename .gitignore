@@ -1,0 +1,12 @@
+# OS and editor droppings
+Thumbs.db
+desktop.ini
+.DS_Store
+*~
+
+# Working files that do not belong in a documentation repository
+*.docx
+*.asm
+*.bin
+*.hex
+*.nib

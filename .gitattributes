@@ -1,0 +1,3 @@
+# PDFs are binary. Without this, git's heuristic treats a mostly-ASCII PDF as
+# text, which invites line-ending translation and produces useless diffs.
+*.pdf binary
