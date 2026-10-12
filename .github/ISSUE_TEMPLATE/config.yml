@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Firmware Reference
+    url: https://github.com/JaredCabot/valhalla-2724a-manuals/blob/main/2724A_Firmware_Reference.pdf
+    about: IEEE-488 commands, memory map, the NOVRAM format and the calibration state machine.
+  - name: NOVRAM backup and restore
+    url: https://github.com/JaredCabot/valhalla-2724a-novram#readme
+    about: Back up and restore the calibration NOVRAMs with an Arduino Uno.
